@@ -2,16 +2,16 @@
 Hi, I am Arya Shahi,<br>final year undergraduate @SVNIT
 Within this vast and diversified field, my passion lies in problem-solving. Whether it involves crafting innovative applications or achieving that elusive "green tick" of satisfaction of getting a problem accepted, I am driven by the thrill of conquering challenges. While my expertise lies in the MERN stack, I have explored various other tech stacks, never restricting myself to a single realm of possibilities.
 I would like to share a glimpse of my remarkable experiences so far😁
- -Interned at D.E.Shaw for a QTE role in 2023 and at Flipkart for a Software Developer role in 2022
- -Flipkart Runway Scholar, was in the top 15 among 11,000+ participants
- -DESIS Ascend Educare fellow, was in the top 35 among 7000+ participants
- -Winner of a national-level hackathon, Hack the Tank
- -Secured 4th rank in recHERsion, a coding contest by ACM-W NITK
- -Secured 735th rank among 3000+ participants in Code Jam to I/O for Women' 22 
- -Qualified for 2nd round of Meta HackerCup'22
- -Secured 3rd position in TUG of Words a debate competition by CHES SVNIT)
+ -Interned at D.E.Shaw for a QTE role in 2023 and at Flipkart for a Software Developer role in 2022<br>
+ -Flipkart Runway Scholar, was in the top 15 among 11,000+ participants<br>
+ -DESIS Ascend Educare fellow, was in the top 35 among 7000+ participants<br>
+ -Winner of a national-level hackathon, Hack the Tank<br>
+ -Secured 4th rank in recHERsion, a coding contest by ACM-W NITK<br>
+ -Secured 735th rank among 3000+ participants in Code Jam to I/O for Women' 22 <br>
+ -Qualified for 2nd round of Meta HackerCup'22<br>
+ -Secured 3rd position in TUG of Words a debate competition by CHES SVNIT)<br>
  -Served as Lead Organiser and lead a team of 17 members for the conduction of the national-level 
- hackathon DotSlash 6.0
+ hackathon DotSlash 6.0<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arya-shahi/) 
