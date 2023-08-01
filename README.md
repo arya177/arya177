@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi, I am Arya Shahi,<br>final year undergraduate @SVNIT
 Within this vast and diversified field, my passion lies in problem-solving. Whether it involves crafting innovative applications or achieving that elusive "green tick" of satisfaction of getting a problem accepted, I am driven by the thrill of conquering challenges. While my expertise lies in the MERN stack, I have explored various other tech stacks, never restricting myself to a single realm of possibilities.
-I would like to share a glimpse of my remarkable experiences so far😁
+I would like to share a glimpse of my remarkable experiences so far😁 <br>
  -Interned at D.E.Shaw for a QTE role in 2023 and at Flipkart for a Software Developer role in 2022<br>
  -Flipkart Runway Scholar, was in the top 15 among 11,000+ participants<br>
  -DESIS Ascend Educare fellow, was in the top 35 among 7000+ participants<br>
